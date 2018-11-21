@@ -105,7 +105,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Best Nohay 2018</a>
+            <a class="navbar-brand" href="#"> The Best Nohay 2018</a>
           </div>
         </div>
       </div>
